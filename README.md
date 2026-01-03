@@ -1,19 +1,21 @@
-# 👋 Hi, I'm Eli C. Sorono
+# 👋 Hi, I'm Eli C. Soroño
 
 🎓 **BS Information Technology Student**  
-💻 **Aspiring Software & Web Developer**  
+💻 **Aspiring Software, Mobile & Web Developer**  
 📍 Philippines
 
 ---
 
 ## 🚀 About Me
 
-I am a detail-oriented IT student with a strong interest in **software development, web applications, and system design**. I enjoy building practical systems, organizing data efficiently, and continuously improving my technical skills through hands-on projects.
+I am an ordinary IT student with interest in **software development, web applications, mobile development and system design**. I enjoy building practical systems, organizing data efficiently, random system and continuously improving my technical skills through hands-on projects.
 
 I am passionate about:
 - Web-based applications
 - Inventory and financial systems
 - Database design and data accuracy
+- Mobile Development
+- Game development (Soon)
 - Writing clean and maintainable code
 
 ---

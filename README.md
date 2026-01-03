@@ -21,10 +21,13 @@ I am passionate about:
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 - C# / .NET  
 - Blazor  
 - JavaScript  
-- HTML & CSS  
+- HTML & CSS
+- Laravel
+- Flutter
 
 ### Databases
 - SQL Server  
@@ -53,7 +56,6 @@ A web-based inventory system designed for small retail businesses (such as sari-
 A Blazor-based financial module with complete invoice handling and structured backend logic.
 
 **Highlights:**
-- Accurate financial calculations  
 - Clean UI layout  
 - Maintainable and scalable design  
 
@@ -63,18 +65,20 @@ A Blazor-based financial module with complete invoice handling and structured ba
 
 - Full-stack web development  
 - Database normalization and optimization  
-- Real-world system design practices  
+- Real-world system design practices
+- Full-stack mobile development
+- Software development
+- Planning to learn React and Vue.js soon
 
 ---
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/elisioo 
 - Email: e.sorono.544027@umindanao.edu.ph
 -        sronoile@gmail.com
 
 ---
 
 ## ⭐ Personal Note
-
-I believe that **simple, well-designed systems** are more effective than complex systems that are hard to use.
+I believe that it is only **hard at first**, but the more you execute, the finer it will be.

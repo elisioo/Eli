@@ -1,88 +1,80 @@
-👋 Hi, I'm Eli C. Sorono
+# 👋 Hi, I'm Eli C. Sorono
 
-🎓 BS Information Technology Student
-💻 Aspiring Software / Web Developer
+🎓 **BS Information Technology Student**  
+💻 **Aspiring Software & Web Developer**  
 📍 Philippines
 
-🚀 About Me
+---
 
-I’m a detail-oriented IT student with a strong interest in software development, web applications, and system design. I enjoy turning ideas into functional systems and continuously improving my technical skills through hands-on projects and real-world scenarios.
+## 🚀 About Me
 
-I’m especially interested in:
+I am a detail-oriented IT student with a strong interest in **software development, web applications, and system design**. I enjoy building practical systems, organizing data efficiently, and continuously improving my technical skills through hands-on projects.
 
-Web-based systems
+I am passionate about:
+- Web-based applications
+- Inventory and financial systems
+- Database design and data accuracy
+- Writing clean and maintainable code
 
-Inventory & financial applications
+---
 
-Database design and data organization
+## 🛠️ Tech Stack
 
-Clean, maintainable code
+### Languages & Frameworks
+- C# / .NET  
+- Blazor  
+- JavaScript  
+- HTML & CSS  
 
-🛠️ Tech Stack
+### Databases
+- SQL Server  
+- MySQL  
 
-Languages & Frameworks
+### Tools & Platforms
+- Git & GitHub  
+- Visual Studio / VS Code  
+- Google Sheets (Data Entry & Organization)
 
-C# / .NET
+---
 
-Blazor
+## 📂 Projects
 
-JavaScript
+### 📦 Inventory Management System
+A web-based inventory system designed for small retail businesses (such as sari-sari stores), focused on simplicity and ease of use for non-technical users.
 
-HTML & CSS
+**Key Features:**
+- Product and stock tracking  
+- Organized database structure  
+- User-friendly interface  
 
-Databases
+---
 
-SQL Server
+### 💰 Financial & Invoice Management System
+A Blazor-based financial module with complete invoice handling and structured backend logic.
 
-MySQL
+**Highlights:**
+- Accurate financial calculations  
+- Clean UI layout  
+- Maintainable and scalable design  
 
-Tools & Platforms
+---
 
-Git & GitHub
+## 📈 Currently Learning & Improving
 
-Visual Studio / VS Code
+- Full-stack web development  
+- Database normalization and optimization  
+- Real-world system design practices  
 
-Google Sheets (Data Entry & Organization)
+---
 
-📂 Featured Projects
-📦 Inventory Management System
+## 🤝 Connect With Me
 
-A web-based inventory system designed for small retail businesses (e.g., sari-sari stores), focusing on simplicity and usability for non-technical users.
-Features:
+- GitHub: https://github.com/your-username  
+- Email: e.sorono.544027@umindanao.edu.ph
+-        sronoile@gmail.com
 
-Product tracking
+---
 
-Stock updates
+## ⭐ Personal Note
 
-Organized database schema
-
-💰 Financial & Invoice Management (Blazor)
-
-A financial page built using Blazor with full invoice handling and structured backend logic.
-Focus:
-
-Clean UI
-
-Accurate calculations
-
-Maintainable architecture
-
-📈 What I’m Currently Working On
-
-Improving my full-stack development skills
-
-Enhancing database design and normalization
-
-Building more real-world, portfolio-ready projects
-
-🤝 Let’s Connect
-
-💼 GitHub: You’re already here!
-
-📧 Email: (optional — add if you want)
-
-🌱 Always open to learning, collaboration, and feedback
-
-⭐ Fun Fact
-
-I believe simple systems done right are more powerful than complex systems done poorly.
+I believe that **simple, well-designed systems** are more effective than complex systems that are hard to use.
